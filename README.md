@@ -17,7 +17,7 @@ The basic 6T SRAM cell was designed using cross-coupled CMOS inverters and acces
 
 A dedicated testbench was created to verify read and write functionality of the SRAM cell.
 
-![Single Cell Test](images/singleunit_for_test.png)
+![Single Cell Test](images/singleunit_for test.png)
 
 ---
 
